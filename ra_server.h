@@ -116,7 +116,7 @@ vector<VehicleAnalysis> get_log() {
 HeadUnit getMasterUnit (vector<HeadUnit> inputs) {
 
   // FILL IN THIS FUNCTION!
-  
+
 
   HeadUnit(null, null, null, null) master;
   return master;
